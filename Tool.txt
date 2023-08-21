@@ -1,0 +1,7 @@
+Hotmail Account Checker
+
+This tool will check your email and password list from a .txt file. This tool supports all domain of hotmail such as .com .fr .de etc all . Also this tool supports to read the messages list in inbox.
+
+if you wanna buy this tool contact me via Telegram . 
+
+Telegram : @alexrony21
